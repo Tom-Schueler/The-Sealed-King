@@ -1,0 +1,18 @@
+PORTFOLIO SOURCE LICENSE
+
+Copyright (c) 2026 Tom Schüler alias KEKW Detlef
+
+This repository is provided for portfolio and evaluation purposes only.
+
+Permission is granted to view, clone, and run the code for personal evaluation or testing.
+
+The following are NOT permitted without explicit written permission from the author:
+
+• Using the code in commercial or non-commercial projects
+• Copying substantial parts of the code into other software
+• Redistributing the code or derivatives
+• Publishing modified versions of the code
+
+This repository is NOT an open-source project.
+
+All rights are reserved except for the limited permission granted above.
