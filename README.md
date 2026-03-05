@@ -50,6 +50,6 @@ This ensures the Attack animations and transitions feel as smooth as possible.
 
 Altough the Nodes represent the Trie, on their own they are pretty useless. This is where the [Node Navigator](https://blueprintue.com/blueprint/fx25ystk/) comes in. It represents the Device with which the Trie is traversed. 
 
-Simply said, _The Combat Action Executor_ gets a Root Assigned. It additionaly handles the playing of the [Montages](http://blueprintue.com/blueprint/wbj_7cj1/), Cooldown, etc., and [uses the _Node Navigator_ like a Cursor](https://blueprintue.com/blueprint/ax6pw9fo/).
+Simply said, _The Combat Action Executor_ gets a Root Assigned. It additionaly handles the playing of the [Montages](http://blueprintue.com/blueprint/wbj_7cj1/), Cooldown, etc., and [uses the _Node Navigator_ like a Cursor](https://blueprintue.com/blueprint/tq0lzvpy/).
 
 
