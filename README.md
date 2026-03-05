@@ -28,4 +28,7 @@ My goal for this System was to make it as easy to use as possible for the Design
 
 ### 1. Combat Action [Rooot](Source/Slasher/Public/CombatActionRoot.h) and [Node](Source/Slasher/Public/CombatActionNode.h)
 
-Both the Combat Action Root and Node are assets to be created by the Designers. With this they are abled to customise the length, order and so on, of a specified Attack-Sequence/Combo. 
+Both the Combat Action Root and Node are assets to be created by the Designers. With this they are abled to customise the length, order and so on, of a specified Attack-Sequence/Combo. Each node conains all information needed for the Attack that is Defined. 
+
+<img width="477" height="510" alt="image" src="https://github.com/user-attachments/assets/f070c8eb-527d-4d40-a1dd-b78185a13e91" />
+
