@@ -23,3 +23,9 @@ In this project I concentrated mainly on Gameplay Programming and maintaing the 
 Especially much work went into the Technical Design of making the Attacks as smooth and satisfying as possible. In the following I want to go into greater detail of the:
 
 ## Combat Action System
+
+My goal for this System was to make as easy to use as possible for the Designteam. In order to achieve this I had to make sure all parts of the System are self explanetory, Documented and easyly extensible. At the core, this whole System is based on a [_Trie_](https://en.wikipedia.org/wiki/Trie). 
+
+### 1. Combat Action- [Rooot](Source/Slasher/Public/CombatActionRoot.h) | [Node](Source/Slasher/Public/CombatActionNode.h)
+
+
