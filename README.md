@@ -32,4 +32,12 @@ My goal for this System was to make it as easy to use as possible for the Design
 
 Both the Combat Action Root and Node are assets to be created by the Designers. With this they are abled to customise the length, order and so on, of a specified Attack-Sequence/Combo. Each node conains all information needed for the Attack that is Defined. 
 
+### 2. Montages
+
+### 3. Combat Action Executor and Node Navigator
+
+Altough the Nodes represent the Trie, on their own they are pretty useless. This is where the Node Navigator comes in. It represents the Device with which the Trie is traversed. 
+
+Simply said, _The Combat Action Executor_ gets a Root Assigned. It additionaly handles the playing of the Montages, Cooldown, etc., and uses the _Node Navigator_ like a Cursor.
+
 
