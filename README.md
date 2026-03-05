@@ -34,9 +34,9 @@ Both the Combat Action Root and Node are assets to be created by the Designers. 
 
 This part ensures expandability. With sufficient Animations there is no limit on how many _Combos_ can exist.
 
-<br clear="right"/>
-
 ### 2. Montages
+
+<br clear="right"/>
 
 ### 3. Combat Action Executor and Node Navigator
 
