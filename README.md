@@ -43,9 +43,7 @@ We use Anim Notifier (States) to customise the animations for things such as FX 
 - Character can still turn
 
 This ensures the Attack animations and transitions feel as smooth as possible.
-
 <br clear="right"/>
-
 ### 3. Combat Action Executor and Node Navigator
 
 Altough the Nodes represent the Trie, on their own they are pretty useless. This is where the [Node Navigator](https://blueprintue.com/blueprint/fx25ystk/) comes in. It represents the Device with which the Trie is traversed. 
