@@ -36,6 +36,14 @@ This part ensures expandability. With sufficient Animations there is no limit on
 
 ### 2. Montages
 
+We use Anim Notifier (States) to customise the animations for things such as FX of course, but more importantly we can define for each animation, when the:
+
+- weapons Hitbox should actually be active
+- transition to the next Animation should start (if any)
+- Character can still turn
+
+This ensures the Attack animations and transitions feel as smooth as possible.
+
 <br clear="right"/>
 
 ### 3. Combat Action Executor and Node Navigator
