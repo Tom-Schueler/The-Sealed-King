@@ -26,6 +26,6 @@ Especially much work went into the Technical Design of making the Attacks as smo
 
 My goal for this System was to make it as easy to use as possible for the Designerteam. In order to achieve this I had to make sure all parts of the System are self explanetory, Documented and easyly extensible. To ensure this, at the core, this whole System is based on a [_Trie_](https://en.wikipedia.org/wiki/Trie). Now I will explain why I think this works really great. 
 
-### 1. Combat Action- [Rooot](Source/Slasher/Public/CombatActionRoot.h) | [Node](Source/Slasher/Public/CombatActionNode.h)
+### 1. Combat Action [Rooot](Source/Slasher/Public/CombatActionRoot.h) and [Node](Source/Slasher/Public/CombatActionNode.h)
 
-
+Both the Combat Action Root and Node are assets to be created by the Designers. With this they are abled to customise the length, order and so on, of a specified Attack-Sequence/Combo. 
