@@ -9,4 +9,4 @@ is the project I worked on during the third semester of my education at the _Sch
 <img width="960" height="300" alt="image" src="https://github.com/user-attachments/assets/fa8e257b-e6e8-49d3-990e-224cf341eca3" />
 
 
-TODO: What is the game about. + image
+TODO: What is the game about.
