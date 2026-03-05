@@ -32,6 +32,10 @@ My goal for this System was to make it as easy to use as possible for the Design
 
 Both the Combat Action Root and Node are assets to be created by the Designers. With this they are abled to customise the length, order and so on, of a specified Attack-Sequence/Combo. Each node conains all information needed for the Attack that is Defined. 
 
+This part ensures expandability. With sufficient Animations there is no limit on how many _Combos_ can exist.
+
+<br clear="right"/>
+
 ### 2. Montages
 
 ### 3. Combat Action Executor and Node Navigator
