@@ -12,3 +12,14 @@ It is a 3D third person action game focused on melee combat, where you fight thr
 
 ##
 
+In this project I concentrated mainly on Gameplay Programming and maintaing the Project's architecture. Specificly the behaviour of the main character. This task consisted of:
+
+- Camera control (Free-, Focused-Camera)
+- Interacting with Interactables
+- Integrating VFX
+- Implementing Player Controlles (Attacks, Block, etc.)
+- Chaining Attacks smoothly
+
+Especially much work went into the Technical Design of making the Attacks as smooth and satisfying as possible. In the following I want to go into greater detail of the scale of the:
+
+## Combat Action System
