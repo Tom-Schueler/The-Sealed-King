@@ -20,6 +20,6 @@ In this project I concentrated mainly on Gameplay Programming and maintaing the 
 - Implementing Player Controlles (Attacks, Block, etc.)
 - Chaining Attacks smoothly
 
-Especially much work went into the Technical Design of making the Attacks as smooth and satisfying as possible. In the following I want to go into greater detail of the scale of the:
+Especially much work went into the Technical Design of making the Attacks as smooth and satisfying as possible. In the following I want to go into greater detail of the:
 
 ## Combat Action System
